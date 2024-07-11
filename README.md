@@ -1,1 +1,2 @@
-# MA-203
+# MA 203: Numerical Methods
+Report of the project course.
